@@ -1,3 +1,5 @@
+(heading)(images/Linkedin_heading.png)
+
 ## About Me.. 👋
 
 Hi, I'm Maiitree Maniar — a **financial analyst** with an expertise in turning numbers into results. Strong interest in **data analysis** & **blockchain**  ✌💖
