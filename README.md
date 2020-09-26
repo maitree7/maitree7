@@ -2,13 +2,13 @@
 
 ## About Me.. 👋
 
-Hi, I'm Maiitree Maniar —  Financial Analyst with 8+ years of experience turning numbers into results. Strong interest in Data Science & Blockchain ✌💖
-💡  Like to do data analysis, financial modelling and visualization.
-🎓 Recently certified FinTech from University of North Carolina, Charlotte with A+.
-🌱 Masters in Computer Science and a Certified Chartered Accountant.
-✍️  In my leisure time, I read books, love cooking and nurture my kids.
-💬  Currently looking for a right opportunity in the field of Finance & Data Analysis. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.
-✉️  Shoot me an email at maitree.maniar@gmail.com and I'll try to respond as soon as I can.
+Hi, I'm Maiitree Maniar —  Financial Analyst with 8+ years of experience turning numbers into results. Strong interest in Data Science & Blockchain ✌💖\
+💡  Like to do data analysis, financial modelling and visualization.\
+🎓 Recently certified FinTech from University of North Carolina, Charlotte with A+.\
+🌱 Masters in Computer Science and a Certified Chartered Accountant.\
+✍️  In my leisure time, I read books, love cooking and nurture my kids.\
+💬  Currently looking for a right opportunity in the field of Finance & Data Analysis. Feel free to reach out to me for working together, volunteering, or just for some interesting discussion.\
+✉️  Shoot me an email at maitree.maniar@gmail.com and I'll try to respond as soon as I can.\
 📄  For more details please have a look at my Résumé.
 
 
