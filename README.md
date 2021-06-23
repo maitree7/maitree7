@@ -2,7 +2,7 @@
 
 ## About Me.. 👋
 
-Hi, I'm Maiitree Maniar —  **Financial Analyst** with 8+ years of experience turning numbers into results. Strong interest in **Data Science** & **Blockchain** ✌💖\
+Hi, I'm Maiitree Maniar —  **Financial Analyst** with 8+ years of experience turning numbers into results. Strong interest in **Financial Modeling**, **Data Analysis** & **Blockchain** ✌💖\
 💡  Like to do data analysis, financial modelling and visualization.\
 🎓 Recently certified FinTech from University of North Carolina, Charlotte with A+.\
 🌱 Masters in Computer Science and a Certified Chartered Accountant.\
@@ -53,7 +53,7 @@ Hi, I'm Maiitree Maniar —  **Financial Analyst** with 8+ years of experience t
 ### Connect with Me  🤝🏻 
 
 <p align="center">
-<a href="https://github.com/maitree7/"><img src="https://img.shields.io/badge/-Github-yellow"/></a>
+<a href="https://drive.google.com/file/d/1H_D47x4Y-gslKiD3noqQtmOnVow_fnQH/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-yellow"/></a>
 <a href="https://www.linkedin.com/in/maitree-maniar/"><img src="https://img.shields.io/badge/-Maiitree%20Maniar-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:maitree.maniar@gmail.com"><img src="https://img.shields.io/badge/-Email me-D14836?style=flatsquare&logo=Gmail&logoColor=white"/></a>
 </p>
